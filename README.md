@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🎓 Studying **Computer Science**
-- 💻 Interested in **LLM, Agent, AI**
-- 📚 Learning **Python and Backend Development, RAG**
+- 💻 Interested in **LLM,AI Agent,ML, DL**
+- 📚 Learning **Python and AI Development**
 - 🌱 Always improving and embracing new challenges
 
 ## 🛠️ Tech Stack
