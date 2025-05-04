@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SeungMin Han!
 
 ## 🚀 About Me
-- 🎓 Studying **Computer Science**
+- 🎓 Studying **LLM, Embedded, Linux**
 - 💻 Interested in **LLM,AI, Embedded, Linux**
 - 📚 Learning **Python and C/C++ Development**
 - 🌱 Always improving and embracing new challenges
