@@ -6,6 +6,9 @@
 - 📚 Learning **Python and C/C++ Development**
 - 🌱 Always improving and embracing new challenges
 
+## 2025 My Target
+- [2025 Notion](https://www.notion.so/2025-17001ff6d1178000a67fe2a3db2b3902?pvs=4)
+
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-4700AB?style=for-the-badge&logo=C&logoColor=white)
